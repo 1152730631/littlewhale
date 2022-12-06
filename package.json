@@ -47,7 +47,7 @@
     "dva-loading": "^3.0.19",
     "moment": "^2.24.0",
     "mp-colorui": "^0.6.4",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
